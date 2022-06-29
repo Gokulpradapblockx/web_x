@@ -1,0 +1,39 @@
+.b-space{
+    margin-bottom: 5rem;
+   
+  }
+  .About-service {
+    overflow: hidden;  
+    background-color: #f5f5f5;
+  }
+  .sides_develope {
+    width: 90%;
+    min-height: 100%;
+    margin-left: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: start;
+  }
+  .sides_develope:hover{
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+
+  .sides_develope img {
+    margin-top: 1rem;
+    width: 90%;
+    height: 15rem;
+    
+  }
+  
+  .sides_develope h6{
+    padding: 0 1% 0 5%;
+  }
+  .sides_develope p{
+    font-size: 13px;
+    opacity: 0.6;
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }

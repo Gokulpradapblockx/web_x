@@ -1,0 +1,74 @@
+.model{
+    background-color: black;
+    overflow: hidden;
+  }
+  .model1{
+    width: 100%;
+    color: white;
+  }
+
+  .model2{
+    background-image: linear-gradient(to right, #0d965a, #0d965a, #0d965a, #0d965a, #0d965a);
+  }
+  .oreo{
+    background-image: linear-gradient(to right, #104377, #104377, #104377, #104377, #104377);
+  }
+  .loto{
+    background-image: linear-gradient(to right, #2b2d5c, #2b2d5c, #2b2d5c, #2b2c5c, #2b2c5c);
+  }
+  .Club{
+    background-image: linear-gradient(to right, #051123, #051123, #051123, #051123, #051123);
+  }
+  .oreo, .model2, .loto, .Club{
+    width: 100%;
+    min-height: 100vh;
+   color: #ffffff;
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+   justify-content: center;
+   
+  }
+  .move-image, .move-image1 { 
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+   
+  }
+  .move-image img{
+    width: 12rem;
+    height: 12rem; 
+  }
+  .move-image1 img{
+    width: 15.5rem;
+    height: 15.5rem;   
+  }
+  .loto img{
+    width: 15.5rem;
+    height: 2rem;
+  }
+  .model2 p, .oreo p, .loto p, .Club p{
+    font-size: 18px;
+    font-weight: 100;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+  }
+  .model2 a,.oreo a,.loto a, .Club a{
+    color: #ffff;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 100;
+  }
+  .final-card img{
+    margin-top: -1.5rem;
+  }
+ @media (max-width: 400px) {
+  .move-image img{
+    width: 10rem;
+    height: 10rem; 
+  }
+  .loto img {
+    width: 11.5rem;
+    height: 2rem;
+}
+ }

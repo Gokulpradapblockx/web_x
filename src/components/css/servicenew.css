@@ -1,0 +1,48 @@
+.new-service{
+    width: 100%;
+    min-height: 100vh;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.new-service h4{
+    text-align: center;
+}
+
+.full-service1{
+    background-image: linear-gradient(to right top, #243b5e, #15315e, #07265c, #001b5a, #000d55);
+}
+.full-service2{
+    background-image: linear-gradient(to right top, #69762d, #6d7825, #72791d, #777b11, #7c7c00);
+}
+.full-service3{
+    background-image: linear-gradient(to right top, #6e2a2a, #692121, #631818, #5d0c0f, #570000);
+}
+.full-service4{
+    background-image: linear-gradient(to right top, #2a6e40, #216833, #196325, #115d15, #085700);
+}
+.full-service5{
+    background-image: linear-gradient(to right top, #2a686e, #226368, #195d62, #0e585d, #005357);
+}
+.full-service6{
+    background-image: linear-gradient(to right top, #6e2a67, #68215e, #631856, #5d0d4d, #570045);
+}
+.full-service7{
+    background-image: linear-gradient(to right top, #243b5e, #15315e, #07265c, #001b5a, #000d55);
+}
+.full-service8{
+    background-image: linear-gradient(to right top, #69762d, #6d7825, #72791d, #777b11, #7c7c00);
+}
+.full-service9{
+    background-image: linear-gradient(to right top, #6e2a2a, #692121, #631818, #5d0c0f, #570000);
+}
+.full-service10{
+    background-image: linear-gradient(to right top, #2a6e40, #216833, #196325, #115d15, #085700);
+}
+.full-service11{
+    background-image: linear-gradient(to right top, #2a686e, #226368, #195d62, #0e585d, #005357);
+}
+.full-service12{
+    background-image: linear-gradient(to right top, #6e2a67, #68215e, #631856, #5d0d4d, #570045);
+}

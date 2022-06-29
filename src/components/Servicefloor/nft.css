@@ -1,0 +1,37 @@
+.nft-market{
+    overflow: hidden;
+}
+.nft-market p{
+    line-height: 2;
+}
+.nft-market h6{
+    font-size: 20px;
+}
+.nft-market h5{
+    font-size: 22px;
+}
+.nft-market h4, h2{
+    text-transform: uppercase;
+}
+.bottom-color{
+    padding: 4.5rem 4.5rem;
+    background-color: #F0F0F0;
+}
+.nft-heading{
+    background-color: #003057;
+    color: #F0F0F0;
+    padding: 3rem 0;
+}
+.nft-subspace{
+    background-color: #fcb831;
+    padding: 2rem 0;
+}
+.nft-subheading{
+    margin: 4rem 0 3rem 0;
+}
+.nft-subheading h5{
+    margin-top: 2rem;
+}
+.nft-subheading p{
+    line-height: 3;
+}
