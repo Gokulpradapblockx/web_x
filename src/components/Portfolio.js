@@ -15,7 +15,7 @@ function Portfolio() {
       el,
       { transform: "translateX(0px)", opacity: "0.2" },
       {
-        transform: "translateX(-120px)",
+        transform: "translateX(-100px)",
         opacity: "1",
         duration: 3,
         scrollTrigger: {
@@ -32,7 +32,7 @@ function Portfolio() {
       el,
       { transform: "translateX(0px)", opacity: "0.2" },
       {
-        transform: "translateX(-120px)",
+        transform: "translateX(-100px)",
         opacity: "1",
         duration: 3,
         scrollTrigger: {
@@ -48,7 +48,7 @@ function Portfolio() {
       el,
       { transform: "translateX(0px)", opacity: "0.2" },
       {
-        transform: "translateX(-120px)",
+        transform: "translateX(-100px)",
         opacity: "1",
         duration: 3,
         scrollTrigger: {
@@ -64,7 +64,7 @@ function Portfolio() {
       el,
       { transform: "translateX(0px)", opacity: "0.2" },
       {
-        transform: "translateX(-120px)",
+        transform: "translateX(-100px)",
         opacity: "1",
         duration: 3,
         scrollTrigger: {

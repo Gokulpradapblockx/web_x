@@ -5,11 +5,7 @@ import {
     FaLinkedinIn,
     FaDiscord
   } from "react-icons/fa";
-  import {   
-    GoLocation,
-    GoMail,
-    GoDeviceMobile
-  } from "react-icons/go";
+ 
   import {
     IoLogoInstagram,  
   } from "react-icons/io";
@@ -72,12 +68,12 @@ const Footer = () => {
            
           </div>
           <div className="col-lg-4 col-sm-12 col-xs-12 footer1 logo">
-           <a target="_blank" href="https://www.facebook.com/blockxtechnologies/"><p><FaFacebookF/></p></a>
-           <a target="_blank" href="https://www.instagram.com/blockxtechnologies"><p><IoLogoInstagram/></p></a>
-           <a target="_blank" href="https://mobile.twitter.com/@BlockXTechInc"><p><FaTwitter/></p></a>
-           <a target="_blank" href="https://www.linkedin.com/company/blockx-technologies-inc"><p><FaLinkedinIn/></p></a>
-           <a target="_blank" href="https://medium.com/@socialmedia.blockxtech"><p><BsMedium/></p></a>
-           <a target="_blank" href="https://discord.gg/JvFkxP9Qa8"><p><FaDiscord/></p></a>
+           <a target="_blank" href="https://www.facebook.com/blockxtechnologies/" rel="noreferrer"><p><FaFacebookF/></p></a>
+           <a target="_blank" href="https://www.instagram.com/blockxtechnologies" rel="noreferrer"><p><IoLogoInstagram/></p></a>
+           <a target="_blank" href="https://mobile.twitter.com/@BlockXTechInc" rel="noreferrer"><p><FaTwitter/></p></a>
+           <a target="_blank" href="https://www.linkedin.com/company/blockx-technologies-inc" rel="noreferrer"><p><FaLinkedinIn/></p></a>
+           <a target="_blank" href="https://medium.com/@socialmedia.blockxtech" rel="noreferrer"><p><BsMedium/></p></a>
+           <a target="_blank" href="https://discord.gg/JvFkxP9Qa8" rel="noreferrer"><p><FaDiscord/></p></a>
           </div>        
         <div className="col-lg-4 footer1">
         

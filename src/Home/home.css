@@ -30,13 +30,11 @@
   margin-top: -0.1rem;
 }
 #Contact{
-  /* background-color: #000000; */
-  
-  border-radius: 10px;
+ border-radius: 10px;
 }
-/* #Contact .Top-text{
+#Contact .Top-text{
   margin-top: 3rem;
-} */
+}
 #Contact p{
  font-weight: 600;
  color: #fff;

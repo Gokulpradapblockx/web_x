@@ -33,7 +33,7 @@ const Servicecard = () => {
       </div>
 
       <div className="container">
-        <div className="row">
+        <div className="row service-card">
           <div className="col-lg-4 b-space">
             <div className="sides_develope">
               <img className="develope_img" src={Market} alt="" />

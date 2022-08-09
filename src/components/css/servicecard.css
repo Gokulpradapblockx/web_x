@@ -1,6 +1,5 @@
 .b-space{
-    margin-bottom: 5rem;
-   
+    margin-bottom: 5rem;   
   }
   .About-service {
     overflow: hidden;  
@@ -8,13 +7,12 @@
   }
   .sides_develope {
     width: 90%;
-    min-height: 100%;
+    height: 30rem;
     margin-left: 5%;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    text-align: start;
   }
   .sides_develope:hover{
     border-radius: 10px;
@@ -36,4 +34,11 @@
     opacity: 0.6;
     margin-left: 2rem;
     margin-right: 2rem;
+  }
+  .service-card{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
   }

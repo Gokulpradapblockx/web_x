@@ -7,9 +7,9 @@ import "./home.css"
 const Header = () => {
   return (
     <div className=" gradient__bg">
-      <div class="col-lg-12 container">
+      <div class="container">
         <div class="row">
-          <div class=" imade col-lg-6 col-sm-12">
+          <div class=" imade col-lg-6" >
             <img
               src="https://static.vecteezy.com/system/resources/previews/004/578/737/non_2x/server-trading-and-bitcoin-investment-free-vector.jpg"
               alt=""
