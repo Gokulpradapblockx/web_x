@@ -10,12 +10,12 @@ const Contact = () => {
     <div className="col-lg-4 contact-deatails">
         <h5>Need Consulting?</h5>
         <h1><FaBlenderPhone/></h1>
-        <a target="_blank" href="https://www.linkedin.com/in/manjari-a-9b1aa345/"><BsArrowUpRight/></a>
+        <a target="_blank" href="https://www.linkedin.com/in/manjari-a-9b1aa345/" rel="noreferrer"><BsArrowUpRight/></a>
     </div>
     <div className="col-lg-4 contact-deatails">
         <h5>Need Development</h5>
         <h1><SiXdadevelopers/></h1>
-        <a target="_blank" href="https://www.linkedin.com/in/nischayvaish/"><BsArrowUpRight/></a>
+        <a target="_blank" href="https://www.linkedin.com/in/nischayvaish/" rel="noreferrer"><BsArrowUpRight/></a>
     </div>
     <div className="col-lg-4 contact-deatails">
        <h5> Join Us?</h5>

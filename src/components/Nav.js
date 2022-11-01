@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link } from 'react-router-dom';
-import logo from '../Assets/logo1.png';
+import logo from '../Assets/Primary Png HiRes 10.png';
 import { useState } from 'react';
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 import "./css/nav.css"

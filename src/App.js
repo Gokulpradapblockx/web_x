@@ -22,11 +22,9 @@ import Meta from "./components/Servicefloor/Meta";
 import Frontend from "./components/Servicefloor/Frontend";
 import Coin from "./components/Servicefloor/Coin";
 
-
 function App() {
   return (
-    <>
-    
+    <>    
       <BrowserRouter>
       <ScrollToTop />
         <Nav/>

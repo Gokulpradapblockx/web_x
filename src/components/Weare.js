@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-has-content */
 import React from 'react'
 import "../carrers.css";
 const Weare = () => {
@@ -40,7 +41,7 @@ const Weare = () => {
                 />
               </i>
             </span>
-            <a target="_blank" className="looking-for__item--link" href="https://forms.gle/v9giJNT2EnGFDyGy6"></a>
+            <a target="_blank" className="looking-for__item--link" href="https://forms.gle/v9giJNT2EnGFDyGy6" rel="noreferrer"></a>
           </div>
           <div className="looking-for__item col-sm-4 mx-2">
             <i className="looking-for__item--icon icon-backend"></i>
@@ -60,7 +61,7 @@ const Weare = () => {
                 />
               </i>
             </span>
-            <a target="_blank" className="looking-for__item--link" href="https://forms.gle/v9giJNT2EnGFDyGy6"></a>
+            <a target="_blank" className="looking-for__item--link" href="https://forms.gle/v9giJNT2EnGFDyGy6" rel="noreferrer"></a>
           </div>
           <div className="looking-for__item col-sm-4 mx-2">
             <i className="looking-for__item--icon icon-frontend"></i>
@@ -80,7 +81,7 @@ const Weare = () => {
                 />
               </i>
             </span>
-            <a target="_blank" className="looking-for__item--link" href="https://forms.gle/v9giJNT2EnGFDyGy6"></a>
+            <a target="_blank" className="looking-for__item--link" href="https://forms.gle/v9giJNT2EnGFDyGy6" rel="noreferrer"></a>
           </div>
         </div>
         <div className="row">
@@ -102,7 +103,7 @@ const Weare = () => {
                 />
               </i>
             </span>
-            <a target="_blank" className="looking-for__item--link" href="https://forms.gle/v9giJNT2EnGFDyGy6"></a>
+            <a target="_blank" className="looking-for__item--link" href="https://forms.gle/v9giJNT2EnGFDyGy6" rel="noreferrer"></a>
           </div>
           <div className="looking-for__item col-sm-4 mx-2">
             <i className="looking-for__item--icon icon-pm"></i>
@@ -122,7 +123,7 @@ const Weare = () => {
                 />
               </i>
             </span>
-            <a target="_blank" className="looking-for__item--link" href="https://forms.gle/v9giJNT2EnGFDyGy6"></a>
+            <a target="_blank" className="looking-for__item--link" href="https://forms.gle/v9giJNT2EnGFDyGy6" rel="noreferrer"></a>
           </div>
           <div className="looking-for__item col-sm-4 mx-2">
             <i className="looking-for__item--icon icon-fullstack"></i>
@@ -142,7 +143,7 @@ const Weare = () => {
                 />
               </i>
             </span>
-            <a target="_blank" className="looking-for__item--link" href="https://forms.gle/v9giJNT2EnGFDyGy6"></a>
+            <a target="_blank" className="looking-for__item--link" href="https://forms.gle/v9giJNT2EnGFDyGy6" rel="noreferrer"></a>
           </div>          
         </div>
         <div className="row">
@@ -164,7 +165,7 @@ const Weare = () => {
                 />
               </i>
             </span>
-            <a target="_blank" className="looking-for__item--link" href="https://forms.gle/v9giJNT2EnGFDyGy6"></a>
+            <a target="_blank" className="looking-for__item--link" href="https://forms.gle/v9giJNT2EnGFDyGy6" rel="noreferrer"></a>
           </div>
           <div className="looking-for__item col-sm-4 mx-2">
             <i className="looking-for__item--icon icon-pm"></i>
@@ -184,7 +185,7 @@ const Weare = () => {
                 />
               </i>
             </span>
-            <a target="_blank" className="looking-for__item--link" href="https://forms.gle/v9giJNT2EnGFDyGy6"></a>
+            <a target="_blank" className="looking-for__item--link" href="https://forms.gle/v9giJNT2EnGFDyGy6" rel="noreferrer"></a>
           </div>
           <div className="looking-for__item col-sm-4 mx-2">
             <i className="looking-for__item--icon icon-fullstack"></i>
@@ -204,7 +205,7 @@ const Weare = () => {
                 />
               </i>
             </span>
-            <a target="_blank" className="looking-for__item--link" href="https://forms.gle/v9giJNT2EnGFDyGy6"></a>
+            <a target="_blank" className="looking-for__item--link" href="https://forms.gle/v9giJNT2EnGFDyGy6" rel="noreferrer"></a>
           </div>          
         </div>
       </div>

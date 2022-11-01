@@ -1,1 +1,13 @@
-
+@media (max-width: 1200px) {
+    .imade img {
+      width: 450px !important;
+      height: 350px !important;
+    }
+  }
+  @media (max-width: 450px) {
+    .imade img {
+      width: 80% !important;
+      height: 80% !important;
+    }
+  }
+ 

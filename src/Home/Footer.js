@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import {
     FaFacebookF,  
@@ -11,9 +12,8 @@ import {
   } from "react-icons/io";
   import {
     BsMedium 
-  } from "react-icons/bs";
-  
-  import logo from '../Assets/logo1.png';
+  } from "react-icons/bs";  
+  import logo from '../Assets/Primary Png HiRes 10.png';
 
 const Footer = () => {
   return (

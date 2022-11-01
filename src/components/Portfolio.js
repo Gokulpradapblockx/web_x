@@ -1,7 +1,9 @@
+/* eslint-disable react/jsx-no-target-blank */
 import { useRef, useEffect } from "react";
 import logo from "../Assets/coinbanc logo black (1).png";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import elephant from "../Assets/Screenshot__208_-removebg-preview.png"
 import "./css/portfolio.css"
 
 gsap.registerPlugin(ScrollTrigger);
@@ -90,7 +92,7 @@ makes the Coinbanc platform unique. It is P2P lending and borrowing platform wit
 complex KYC process which is similar to the traditional loaning process and provides better 
 fiat transactions without any tax deduction. it is an ongoing DeFi project on BNB. 
             </p>
-            <a target="_blank" href="https://www.coinbanc.app">TRY NOW</a>
+            <a target="_blank" href="https://www.coinbanc.app" rel="noreferrer">TRY NOW</a>
           </div>
 
           <div className="col-lg-4 move-image">
@@ -113,7 +115,7 @@ stored safely in the cake bank. Cake bank ensures that you get to claim free cak
 there will be a Golden Kitty Cake airdrops other than the cake rewords and the cake reward 
 also as its own feature to prevent any whale manipulation.  
             </p>
-            <a target="_blank" href="https://goldenkittycake.com/">TRY NOW</a>
+            <a target="_blank" href="https://goldenkittycake.com/" rel="noreferrer">TRY NOW</a>
           </div>
           
           <div className="col-lg-4 move-image1">
@@ -139,7 +141,7 @@ number and paying from the BNB wallet of your choice. And it does not require to
 any funds prior to a game. In this game, payments are immediate and fully controlled by a 
 smart contract without any third-party involvement
             </p>
-            <a target="_blank" href="https://www.mylottocoin.com/">TRY NOW</a>
+            <a target="_blank" href="https://www.mylottocoin.com/" rel="noreferrer">TRY NOW</a>
           </div>
 
           <div className="col-lg-4 move-image1">
@@ -165,12 +167,12 @@ of raising the funds for the new species. In the secondary sale of the airdrop, 
 Elephant club will donate the royalties to the charity supporting new species and there will 
 be play-to-earn game features and NFT staking.   
             </p>
-            <a target="_blank" href="https://www.thechillelephantsnft.site">TRY NOW</a>
+            <a target="_blank" href="https://www.thechillelephantsnft.site" rel="noreferrer">TRY NOW</a>
           </div>
 
           <div className="col-lg-4 move-image1">
             <img
-              src="https://www.thechillelephantsnft.site/static/media/logo.6ab671a2.svg"
+              src={elephant}
               alt="spiderman"
               ref={imgRef3}
             />

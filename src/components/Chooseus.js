@@ -58,4 +58,4 @@ party involvement.</p>
   )
 }
 
-export default Chooseus
+export default Chooseus;
