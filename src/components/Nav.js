@@ -9,7 +9,7 @@ const Nav = () => {
   const [toggleMenu, setToggleMenu] = useState(false);
   return (
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container"><a href="/"><img src={logo} alt="logo" /></a>
+        <div class="container"><a href="/"><img className='ms-1' src={logo} alt="logo" /></a>
             
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
            
@@ -31,7 +31,7 @@ const Nav = () => {
            <Link class="nav-link active" aria-current="page" to="/Careers">Careers</Link>
          </li>
          <li class="nav-item">
-           <a target="_blank" class="nav-link active" aria-current="page" href="https://blogs.blockxtechnologies.com/">Blog</a>
+           <a target="_blank" class="nav-link active" aria-current="page" href="https://blogs.blockxsolutions.io/" rel="noreferrer">Blog</a>
          </li>
          <li class="nav-item">
            <Link class="nav-link active" aria-current="page" to="/Aboutus">About us</Link>

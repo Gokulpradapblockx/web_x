@@ -1,0 +1,40 @@
+.social__page{
+    background: #f8f9fa;
+    overflow: hidden;
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+.social__links ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 0;
+}
+.social__links ul li{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+.social__links ul li a{
+    text-decoration: none;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #7d7f82;
+    padding: .3rem 0;
+}
+.social__links ul li img{
+    width: 18px;
+    height: 18px;
+    margin-right: .2rem;
+}
+.social__links ul li .gmail__logo{
+    height: 16px;
+}
+@media (max-width: 486px) {
+    .social__links ul li a{        
+        font-size: 0px;       
+    }
+}

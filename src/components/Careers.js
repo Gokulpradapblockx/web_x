@@ -41,8 +41,6 @@ const carrers = () => {
      
       <Weare />
       <Whyus />
-      <Contactus />
-      <Footer />
     </>
   );
 };

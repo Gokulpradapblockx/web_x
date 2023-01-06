@@ -2,10 +2,9 @@ import React from "react";
 import About from "../Home/About";
 import Contactus from "../Home/Contactus";
 import Why from "../Home/Why";
-import Footer from "../Home/Footer";
 import Header from "../Home/Header";
-import Servicecard from './Servicecard'
-import Portfolio from "./Portfolio";
+import Servicecard from './Servicecard';
+import OurClients from "./our-clints/OurClients";
 
 const Home = () => {
   return (
@@ -14,11 +13,8 @@ const Home = () => {
      <Header />
       <About />
       <Servicecard/>
-      <Portfolio/>     
+      <OurClients/>     
       <Why />
-      <Contactus />
-      
-      <Footer />
       </>     
   );
 };

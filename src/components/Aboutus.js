@@ -178,8 +178,7 @@ help your idea grow and conquer business.
         </div>
       </div>
     </div>
-    <Contactus/>
-   <Footer/>
+   
   </>
   )
 }
