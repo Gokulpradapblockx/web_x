@@ -16,7 +16,7 @@ function About() {
             <div className="why">
               <h1>
                 <span>About</span> <br />
-                BlockX Technologies
+                BlockX IT Solutions
               </h1>
             </div>
           </div>
@@ -49,7 +49,7 @@ function About() {
             </div>
             <div class="col-md-4 txt">
               <p>
-              BlockX Technologies  is a Blockchain Product and Service Development company. Our key value is our Quality Development We are specialized in Blockchain End to End Development
+              BlockX IT Solutions  is a Blockchain Product and Service Development company. Our key value is our Quality Development We are specialized in Blockchain End to End Development
               </p>
               <p>
                 Theon DeFi, NFT,DAO,Exchanges with complete Front End,Back End, Mobile Application. Blockchain Development has never been any easier – all you need to do is just tell us your requirements.
@@ -62,7 +62,7 @@ function About() {
 Our main asset is <strong>our resources</strong>. We have top software and blockchain developers to run your project from initial estimation to release.
               </p>
               <p>
-              BlockX Technologies achieves a <strong>well-planned development process</strong> and end to end solutions till the launch of your project.
+              BlockX IT Solutions achieves a <strong>well-planned development process</strong> and end to end solutions till the launch of your project.
               </p>
             </div>
           </div>

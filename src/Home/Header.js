@@ -27,7 +27,7 @@ const Header = () => {
         
           <div className="main-page__description mb-5">
             <p>
-            BlockX Technologies is a complete End to End Blockchain Development Company. We are specialized in development of DeFi,DAO,NFT,Exchanges on Various Blockchain Platform.            </p>            
+            BlockX IT Solutions is a complete End to End Blockchain Development Company. We are specialized in development of DeFi,DAO,NFT,Exchanges on Various Blockchain Platform.            </p>            
           </div>
           <div className="main-page__button-container">
             <div className="main-page__button-text">

@@ -23,7 +23,7 @@ const Aboutus = () => {
         <div className="row">
           <div class="col-md-6 txt">
             <p>
-              BlockX Technologies is a complete <strong>End to End IT Service
+              BlockX IT Solutions is a complete <strong>End to End IT Service
               providers</strong> for your business.
             </p>
             <p>
@@ -91,7 +91,7 @@ const Aboutus = () => {
         <div className="col-lg-4 col-md-12 content">
           <h5>Attitude To Employee</h5>
          
-            <p>Each software engineer at BlockX Technologies is welcome to discuss any thoughts, ideas, preferences and dislikes. Information is freely transferred between levels of the company - from junior developer to CEO and backward. We appreciate transparency and honesty.</p>
+            <p>Each software engineer at BlockX IT Solutions is welcome to discuss any thoughts, ideas, preferences and dislikes. Information is freely transferred between levels of the company - from junior developer to CEO and backward. We appreciate transparency and honesty.</p>
          
         </div>
       </div>
@@ -170,7 +170,7 @@ developing field of innovative products.
 
           <div class="col-md-6 txt">
             <p>
-            At BlockX Technologies , <strong>we offer top-end solutions on Blockchain 
+            At BlockX IT Solutions , <strong>we offer top-end solutions on Blockchain 
 Application</strong> using  web and mobile development market, which will 
 help your idea grow and conquer business. 
             </p>

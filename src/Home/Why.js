@@ -17,7 +17,7 @@ const Why = () => {
         </div>
       </div>
       <Chooseus/>
-    </div>
+    </div>    
   );
 };
 
